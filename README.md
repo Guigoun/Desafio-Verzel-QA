@@ -48,7 +48,7 @@ aprecerá um texto "View raw", clique nele para baixar o documento desejado.
   *Documentação visual com capturas de ecrã passo a passo evidenciando as validações funcionais no fluxo de catálogo, carrinho, cálculo de frete e finalização de pedido.*
 
 ### 🐛 3. Gestão de Bugs (Defeitos Encontrados)
-- 🐞 [**Relatório de Bugs (.docx)**](<./evidencias-relatorios/Relatório de Bugs Verzel.docx>)  
+- 🐞 Relatório de Bugs  (https://docs.google.com/document/d/1gN-L-Ytg5nRtU3KXObOn7fFp0oxlYdLvX6b0tI_7fyI/edit?usp=sharing)
   *Registo formal dos defeitos encontrados, com severidade, prioridade, passos para reprodução, resultados esperados vs. obtidos e evidências:*
   * **`BUG-01`**: Frete grátis não é aplicado em pedidos com o subtotal igual a R$ 200,00 (`CT-UI-14` / `CT-UI-33`).
   * **`BUG-02`**: API permite cálculo de carrinho com quantidade de produto acima do limite máximo permitido (`CT-API-07`).
