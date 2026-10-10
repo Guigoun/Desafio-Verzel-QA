@@ -33,6 +33,8 @@ verzel-store/
 ## 📑 Documentação e Relatórios de Testes
 
 Todos os planos de teste, evidências de execução e relatórios de defeitos encontram-se organizados e versionados nas respectivas pastas:
+OBS: O GitHub não renderiza nem abre documentos do Microsoft Word (.docx) ou Excel (.xlsx), logo após clicar no relatório/cenário que deseja visualizar
+aprecerá um texto "View raw", clique nele para baixar o documento desejado.
 
 ### 📊 1. Planeamento e Cenários de Teste
 - 📑 [**Cenários de Teste Consolidados (.xlsx)**](<./cenarios_teste/Cenario de teste Verzel.xlsx>)  
