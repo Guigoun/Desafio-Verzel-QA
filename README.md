@@ -11,21 +11,15 @@ A organização de diretórios e artefatos do repositório segue o padrão abaix
 
 ```text
 verzel-store/
-├── cenarios_teste/
-│   └── Cenario de teste Verzel.xlsx              # Matriz de cenários (UI e API)
-├── evidencias-relatorios/
-│   ├── Relatório de Bugs Verzel.docx             # Documentação detalhada dos defeitos encontrados
-│   ├── Relatorio Execucao Testes API Verzel.docx # Evidências, payloads e respostas da API
-│   └── Relatorio Execucao Testes UI Verzel.docx  # Evidências passo a passo e capturas de tela (UI)
 ├── tests/
 │   ├── api/
-│   │   └── api-verzel.spec.ts                   # Automação de testes de API REST
+│   │   └── api-verzel.spec.ts          # Automação de testes de API REST
 │   └── ui/
-│       └── checkout-e2e.spec.ts                 # Automação E2E do fluxo de compras / UI
-├── playwright-report/                           # Relatório HTML gerado pelo Playwright
-├── playwright.config.ts                         # Configurações globais do Playwright
-├── package.json                                 # Dependências e scripts do projeto
-└── README.md                                    # Documentação principal
+│       └── checkout-e2e.spec.ts        # Automação E2E do fluxo de compras / UI
+├── playwright-report/                  # Relatório HTML gerado pelo Playwright
+├── playwright.config.ts                # Configurações globais do Playwright
+├── package.json                        # Dependências e scripts do projeto
+└── README.md                           # Documentação principal
 ```
 
 ---
