@@ -34,19 +34,19 @@ verzel-store/
 
 Todos os planos de teste, evidências de execução e relatórios de defeitos encontram-se organizados e versionados nas respectivas pastas:
 
-### 📊 1. Planejamento e Cenários de Teste
-- 📑 [**Cenários de Teste Consolidados (.xlsx)**](<./cenarios_teste/Cenario de teste Verzel.xlsx?raw=true>)  
+### 📊 1. Planeamento e Cenários de Teste
+- 📑 [**Cenários de Teste Consolidados (.xlsx)**](<./cenarios_teste/Cenario de teste Verzel.xlsx>)  
   *Matriz completa de testes contendo identificadores padronizados (`CT-UI-01` a `CT-UI-34` e `CT-API-01` a `CT-API-12`), módulos (Catálogo, Carrinho e Finalizar Compra), passos descritos em BDD (Gherkin), resultados esperados e resultados obtidos.*
 
 ### 🔍 2. Relatórios de Execução e Evidências
-- 🌐 [**Relatório de Execução — Testes de API (.docx)**](<./evidencias-relatorios/Relatorio Execucao Testes API Verzel.docx?raw=true>)  
-  *Validação de endpoints e regras de negócio, testes de status HTTP (200, 201, 404, 422), payloads de envio (JSON) e capturas de tela das respostas no Postman.*
-- 🖥️ [**Relatório de Execução — Testes de UI (.docx)**](<./evidencias-relatorios/Relatorio Execucao Testes UI Verzel.docx?raw=true>)  
-  *Documentação visual com capturas de tela passo a passo evidenciando as validações funcionais no fluxo de catálogo, carrinho, cálculo de frete e finalização de pedido.*
+- 🌐 [**Relatório de Execução — Testes de API (.docx)**](<./evidencias-relatorios/Relatorio Execucao Testes API Verzel.docx>)  
+  *Validação de endpoints e regras de negócio, testes de status HTTP (200, 201, 404, 422), payloads de envio (JSON) e capturas de ecrã das respostas no Postman.*
+- 🖥️ [**Relatório de Execução — Testes de UI (.docx)**](<./evidencias-relatorios/Relatorio Execucao Testes UI Verzel.docx>)  
+  *Documentação visual com capturas de ecrã passo a passo evidenciando as validações funcionais no fluxo de catálogo, carrinho, cálculo de frete e finalização de pedido.*
 
 ### 🐛 3. Gestão de Bugs (Defeitos Encontrados)
-- 🐞 [**Relatório de Bugs (.docx)**](<./evidencias-relatorios/Relatório de Bugs Verzel.docx?raw=true>)  
-  *Registro formal dos defeitos encontrados, com severidade, prioridade, passos para reprodução, resultados esperados vs. obtidos e evidências:*
+- 🐞 [**Relatório de Bugs (.docx)**](<./evidencias-relatorios/Relatório de Bugs Verzel.docx>)  
+  *Registo formal dos defeitos encontrados, com severidade, prioridade, passos para reprodução, resultados esperados vs. obtidos e evidências:*
   * **`BUG-01`**: Frete grátis não é aplicado em pedidos com o subtotal igual a R$ 200,00 (`CT-UI-14` / `CT-UI-33`).
   * **`BUG-02`**: API permite cálculo de carrinho com quantidade de produto acima do limite máximo permitido (`CT-API-07`).
 
