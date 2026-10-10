@@ -38,7 +38,7 @@ Todos os planos de teste, evidências de execução e relatórios de defeitos en
 aprecerá um texto "View raw", clique nele para baixar o documento desejado.
 
 ### 📊 1. Planeamento e Cenários de Teste
-- 📑 Cenários de Teste Consolidados(https://docs.google.com/spreadsheets/d/1MVcdAe9ziYFKl1_nwAW6pWeD1wCTmZJ0VLFSr90DTw8/edit?usp=sharing)    
+- 📑 Cenários de Teste Consolidados  (https://docs.google.com/spreadsheets/d/1MVcdAe9ziYFKl1_nwAW6pWeD1wCTmZJ0VLFSr90DTw8/edit?usp=sharing)    
   *Matriz completa de testes contendo identificadores padronizados (`CT-UI-01` a `CT-UI-34` e `CT-API-01` a `CT-API-12`), módulos (Catálogo, Carrinho e Finalizar Compra), passos descritos em BDD (Gherkin), resultados esperados e resultados obtidos.*
 
 ### 🔍 2. Relatórios de Execução e Evidências
